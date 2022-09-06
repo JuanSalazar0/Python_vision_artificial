@@ -14,14 +14,6 @@ gsup=100
 ginf=70
 bsup=80
 binf=59
-#--------------estos valores no-------------------
-#rinf=95
-#rsup= 200
-#gsup=160
-#ginf=30
-#bsup=135
-#binf=25
-#---------------estos valores no----------------
 for y in range(height):
     for x in range(width): 
         b1,g1,r1 = im2[y,x]
